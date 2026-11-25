@@ -9,7 +9,15 @@ The projects cover different areas of programming, including web development, da
 Most applications were originally developed for personal use or specific practical purposes. Some interfaces are in Polish.
 
 
+## Project Index
+
+| Project | Description | Technologies | Demo |
+|---|---|---|---|
 | [Ticket Price Calculator](ticket-price-calculator/) | Calculates individual railway ticket prices from a combined transaction amount and different discounts. | HTML, CSS, JavaScript | [Live Demo](https://przebisnieg.github.io/Personal-Software-Projects/ticket-price-calculator/index.html) |
+
+
+
+## Projects
 
 ### 1. Ticket Price Calculator
 
